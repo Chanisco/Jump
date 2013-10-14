@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ParalexScroll_2.cs">
+    <Files>
+      <File FileName="..\..\..\Pictures\asteroids_Backup\Assets\Scripts\PlayerSc.cs" Line="21" Column="3" />
+      <File FileName="..\..\..\Pictures\asteroids_Backup\Assets\Scripts\BorderHitSc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParalexScroll_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpriteAnimateSc.cs" Line="14" Column="9" />
+      <File FileName="Assets\Scripts\PlayerCtrlSc.cs" Line="22" Column="26" />
+      <File FileName="Assets\Scripts\ParalexScroll_2.cs" Line="1" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
